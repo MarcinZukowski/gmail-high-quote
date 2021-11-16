@@ -16,17 +16,16 @@ Currently, this extension is only available as a source code.
 
 ### Chrome installation
 
-* In Chrome, go to ``chrome://extensions/``
+* In Chrome, go to [chrome://extensions/]()
 * Enable "Developer mode"
 * Click "Load unpacked"
-* Point to the ``src`` directory in this tree
+* Point to the `src` directory in this tree
 * Reload the page
 * Done
 
 ### Firefox installation
 
-* Open the `about:debugging` page
-* Click "This Firefox"
+* Open [about:debugging#/runtime/this-firefox]()
 * Click "Load Temporary Add-on"
 * Select any file in the `src` directory here.
 

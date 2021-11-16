@@ -4,6 +4,7 @@
   "version": "0.1",
 
   "description": "Highlights quoted text in GMail",
+  "homepage_url": "https://github.com/MarcinZukowski/gmail-high-quote",
 
   "icons": {
     "48": "icons/ghq-48.png",

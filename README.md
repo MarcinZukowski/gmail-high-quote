@@ -16,7 +16,7 @@ Currently, this extension is only available as a source code.
 
 ### Chrome installation
 
-* In Chrome, go to [chrome://extensions/]()
+* In Chrome, go to `chrome://extensions/`
 * Enable "Developer mode"
 * Click "Load unpacked"
 * Point to the `src` directory in this tree
@@ -25,7 +25,7 @@ Currently, this extension is only available as a source code.
 
 ### Firefox installation
 
-* Open [about:debugging#/runtime/this-firefox]()
+* Open `about:debugging#/runtime/this-firefox` 
 * Click "Load Temporary Add-on"
 * Select any file in the `src` directory here.
 

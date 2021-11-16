@@ -1,0 +1,19 @@
+blockquote {
+  background: #f8f8ff;
+  opacity: 1.0;
+  margin-left: 2ex;
+}
+
+blockquote blockquote {
+  background: #ececff;
+  opacity: 0.9;
+}
+
+blockquote blockquote blockquote {
+  background: #e0e0ef;
+}
+
+blockquote blockquote blockquote blockquote{
+  background: #e0e0e0;
+}
+

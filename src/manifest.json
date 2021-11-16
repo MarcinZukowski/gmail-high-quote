@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "gmail-high-quote",
+  "version": "0.1",
+
+  "description": "Highlights quoted text in GMail",
+
+  "icons": {
+    "48": "icons/ghq-48.png",
+    "96": "icons/ghq-96.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://mail.google.com/*"],
+      "css": ["ghq.css"]
+    }
+  ]
+}
